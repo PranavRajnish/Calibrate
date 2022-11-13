@@ -1,0 +1,2 @@
+D:\My Stuff\My Games\Calibrate Game\Calibrate\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\My Stuff\My Games\Calibrate Game\Calibrate\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

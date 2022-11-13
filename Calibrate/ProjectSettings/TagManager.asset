@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - Player
+  - Projectile
+  - GrapplingHook
+  - Enemy
+  - EnemyProjectiles
+  - Lighting
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FarBackground
+    uniqueID: 4221432003
+    locked: 0
+  - name: Background
+    uniqueID: 1884508397
+    locked: 0
+  - name: Lighting
+    uniqueID: 3339583081
+    locked: 0
+  - name: Interactables
+    uniqueID: 3922658663
+    locked: 0
+  - name: Projectiles
+    uniqueID: 355175197
+    locked: 0
+  - name: Player
+    uniqueID: 3902549933
+    locked: 0
+  - name: Foreground
+    uniqueID: 1053863613
+    locked: 0
